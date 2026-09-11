@@ -1,0 +1,8 @@
+{
+  "name": "Calendario de prácticas Bq Médica",
+  "description": "A perpetual calendar automating biochemistry lab schedules, including dates, activities, professors, and locations for recurring Bioquímica médica\n modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
